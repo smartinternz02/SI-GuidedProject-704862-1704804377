@@ -1,0 +1,6 @@
+Testcase ID	Test Scenario
+TC_Amazon_Home_001	Validate the amazon website url
+TC_Amazon_Home_002	Validate the amazon application for Sign In
+TC_Amazon_Home_003	Validate the amazon application for Sign Out
+TC_Amazon_Home_004	Validate the amazon application for Search Item
+TC_Amazon_Home_005	Validate the amazon application for  Add to cart
